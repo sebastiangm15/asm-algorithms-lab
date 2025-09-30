@@ -6,5 +6,5 @@ Proiect educațional în limbaj de asamblare (NASM) care implementează mai mult
 - sortarea și legarea unei liste simplu înlănțuite,
 - funcția k-Fibonacci.
 
-## Structura proiectului
+
 
